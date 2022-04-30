@@ -5,15 +5,7 @@ body{
     width: 120px;
     height: 48px;
 }
-.entrada{
-    display: inline;
-    position: absolute;
-    width: 1000px;
-    height: 80%;
-    left: 55px;
-    display: flex;
-    
-}
+
 
 #mensaje {
     color: darkblue;
@@ -29,7 +21,7 @@ body{
 }
 .advertencia{
     position: absolute;
-    top: 544px;
+    top: 444px;
     left: 14px;
     font-size: 20px;
     font-weight: bold;
