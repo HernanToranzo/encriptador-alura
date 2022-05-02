@@ -21,6 +21,7 @@ body{
     left: 48px;
     width: 808px;
     height: 393px;
+    resize:none;
 }
 .advertencia{
     position: absolute;
